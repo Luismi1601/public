@@ -1,0 +1,13 @@
+C:\lmrc\20483\Mod1-4\Desafio1\obj\Debug\netcoreapp3.1\Desafio1.csprojAssemblyReference.cache
+C:\lmrc\20483\Mod1-4\Desafio1\obj\Debug\netcoreapp3.1\Desafio1.AssemblyInfoInputs.cache
+C:\lmrc\20483\Mod1-4\Desafio1\obj\Debug\netcoreapp3.1\Desafio1.AssemblyInfo.cs
+C:\lmrc\20483\Mod1-4\Desafio1\obj\Debug\netcoreapp3.1\Desafio1.csproj.CoreCompileInputs.cache
+C:\lmrc\20483\Mod1-4\Desafio1\bin\Debug\netcoreapp3.1\Desafio1.exe
+C:\lmrc\20483\Mod1-4\Desafio1\bin\Debug\netcoreapp3.1\Desafio1.deps.json
+C:\lmrc\20483\Mod1-4\Desafio1\bin\Debug\netcoreapp3.1\Desafio1.runtimeconfig.json
+C:\lmrc\20483\Mod1-4\Desafio1\bin\Debug\netcoreapp3.1\Desafio1.runtimeconfig.dev.json
+C:\lmrc\20483\Mod1-4\Desafio1\bin\Debug\netcoreapp3.1\Desafio1.dll
+C:\lmrc\20483\Mod1-4\Desafio1\bin\Debug\netcoreapp3.1\Desafio1.pdb
+C:\lmrc\20483\Mod1-4\Desafio1\obj\Debug\netcoreapp3.1\Desafio1.dll
+C:\lmrc\20483\Mod1-4\Desafio1\obj\Debug\netcoreapp3.1\Desafio1.pdb
+C:\lmrc\20483\Mod1-4\Desafio1\obj\Debug\netcoreapp3.1\Desafio1.genruntimeconfig.cache
